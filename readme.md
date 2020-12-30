@@ -16,17 +16,21 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Agin-DropDisco&show_icons=true&locale=en&layout=compact" alt="Agin DropDisco" />
+<img align="left" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agin-DropDisco&show_icons=true&locale=en&layout=compact" alt="Agin DropDisco" />
+
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="right" height="180" width="280" src="./dev.gif">
+
+<P align="left">
+
+>> JUST DO WHAT YOU ENJOY DOING
+
+</P>
 
 
-<img height="180" width="280" src="./dev.gif">
