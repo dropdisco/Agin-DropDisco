@@ -1,12 +1,11 @@
 <h3 align="center"> 👻 Agin DropDisco 👻</h3>
 <h3 align="center">Fullstack Developer From Indonesia</h3>
 <p align="center">
-<img src="./me.jpg" alt="Agin DropDisco" height="440" width="280">
+<img src="./me.jpg" alt="Agin DropDisco" height="440" width="300">
 </p>
 
 <p align="center"> 
 <a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="LinkedIn" src="./linkedin.svg"></a>
-<a href="https://twitter.com/agin_webdev"><img alt="Twitter" src="./twitter.svg"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
