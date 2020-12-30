@@ -10,9 +10,9 @@
 
 
 <h3 align="center" text_color=red>TOOLS</h3>
-<p align="center">
+<p align="left">
 
-<img height="180" width="280" src="./dev.gif" />
+<img height="100" width="200" src="./dev.gif" />
 
 </p>
 <p align="left"> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
@@ -22,11 +22,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<p align="center">
+<p>
 
-<img height="180em" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Agin-DropDisco&show_icon_color=79ff97=true&title_color=00BCD4&locale=en&layout=compact&icon_color=79ff97&text_color=9f9f9f&bg_color=1d2223" />
+<img height="180em" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Agin-DropDisco&show_icon_color=79ff97=true&title_color=00BCD4&locale=en&layout=compact&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117" />
 
-<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&title_color=00BCD4&icon_color=79ff97&text_color=9f9f9f&bg_color=1d2223" />
+<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&title_color=00BCD4&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117" />
 
 </p>
 
