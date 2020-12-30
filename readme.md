@@ -1,7 +1,7 @@
 <h3 align="center"> 👻 Agin DropDisco 👻</h3>
 <h3 align="center">Fullstack Developer From Indonesia</h3>
 <p align="center">
-<img src="./me.jpg">
+<img src="./me.jpg" alt="Agin DropDisco" height="440" width="280">
 </p>
 
 <p align="center"> 
