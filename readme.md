@@ -18,9 +18,9 @@
 
 <p align="center">
 
-<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agin-DropDisco&show_icons=true&locale=en&layout=compact" alt="Agin DropDisco" />
+<img height="180em" width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Agin-DropDisco&show_icon_color=00BCD4&=true&title_color=00BCD4&locale=en&layout=compact" />
 
-<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&title_color=00BCD4&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 </p>
 
