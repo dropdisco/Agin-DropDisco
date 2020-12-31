@@ -1,8 +1,12 @@
 <h3 align="center"> 👻 Agin DropDisco 👻</h3>
 <h3 align="center">Fullstack Developer From Indonesia</h3>
->> GITCOIN 
+
+### GITCOIN 
+
 >>> https://gitcoin.co/burgerking12
+
 >>> https://gitcoin.co/agin-dropdisco
+
 <p align="center">
 <img src="./me.jpg" alt="Agin DropDisco" height="440" width="320">
 </p>
