@@ -2,10 +2,9 @@
 <h3 align="center">Fullstack Developer From Indonesia</h3>
 
 
-<h3 align="center"> 👻 GITCOIN  👻</h3>
-
-<h3 align="center"> https://gitcoin.co/agin-dropdisco</h3>
-<h3 align="center"> https://gitcoin.co/agin-dropdisco</h3>
+<h3 align="center"> 🥽 GITCOIN  🥽 </h3>
+<h4 align="center"> https://gitcoin.co/agin-dropdisco</h4>
+<h4 align="center"> https://gitcoin.co/burgerking12</h4>
 
 
 <p align="center">
