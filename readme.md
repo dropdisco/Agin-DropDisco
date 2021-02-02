@@ -1,18 +1,8 @@
-<p align="center">
-<img src="./me.jpg" alt="Agin DropDisco" height="440" width="320">
-</p>
-
-<p align="center"> 
-<a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="LinkedIn" src="./linkedin.svg"></a>
-</p>
----
-
-
 <h2 align="center">Thanks for cloning mine 👻</h2>
 
 <h5 align="center">
   
-🔭 My nmae is Agin DropDisco Full-Stack Developer from Indonesia.<br />
+🔭 Name : Agin DropDisco ||  Full-Stack Developer from Indonesia.<br />
  
 🌱 I’m currently learning ReactJS , Substrate, Binance Smart Chain, Polkadot and many fucking more 🏅<br/>
 
@@ -22,6 +12,15 @@
 
 </h5>
 
+---
+
+<p align="center">
+<img src="./me.jpg" alt="Agin DropDisco" height="440" width="320">
+</p>
+
+<p align="center"> 
+<a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="LinkedIn" src="./linkedin.svg"></a>
+</p>
 ---
 
 <h3 align="center"> 🥽 GITCOIN  🥽 </h3>
