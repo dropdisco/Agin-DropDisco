@@ -1,4 +1,5 @@
 <h2 align="center">Thanks for cloning Mine ? 👻</h2>
+
 ---
 
 <h4 align="center">
@@ -12,6 +13,7 @@
 🌙 Quote: JUST DO WHAT YOU ENJOY DOING 
 
 </h5>
+
 ---
 
 <p align="center">
