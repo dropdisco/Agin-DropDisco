@@ -2,13 +2,13 @@
 
 <h5 align="center">
   
-🔭 Name : Agin DropDisco ||  Full-Stack Developer from Indonesia.<br />
+🔭 Agin DropDisco ||  Full-Stack Developer from Indonesia.<br />
  
 🌱 I’m currently learning ReactJS , Substrate, Binance Smart Chain, Polkadot and many fucking more 🏅<br/>
 
 💬 Ask me anything on my social media<br/>
 
-🌙 Quote: Just enjoy what you doing brah..
+🌙 Quote: JUST DO WHAT YOU ENJOY DOING 
 
 </h5>
 
