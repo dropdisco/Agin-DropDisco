@@ -9,9 +9,11 @@
 
 
 
-<h2 align="center"Welcome to my zone 👻</h2>
+<h2 align="center">Welcome to my zone 👻</h2>
 <p align="center">
+  <h6 align="center">
 * 🔭 My nmae is Agin DropDisco Full-Stack Developer from Indonesia.<br />
+ </h6>
 * 🌱 I’m currently learning ReactJS , Substrate, Binance Smart Chain, Polkadot and many fucking more 🏅<br/>
 * 💬 Ask me anything on my social media<br/>
 * ><br/>
