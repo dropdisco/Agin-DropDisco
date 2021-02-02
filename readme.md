@@ -1,4 +1,4 @@
-<h2 align="center">Thanks for cloning mine 👻</h2>
+<h2 align="center">Thanks for cloning Mine ? 👻</h2>
 
 <h5 align="center">
   
