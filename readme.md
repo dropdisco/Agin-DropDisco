@@ -7,18 +7,20 @@
 </p>
 
 
-<h3 align="center" text_color=red>TOOLS</h3>
-<p align="center">
 
+<p align="center">
 <h2>Welcome to my zone 👻</h2>
 * 🔭 My nmae is Agin DropDisco Full-Stack Developer from Indonesia.<br />
 * 🌱 I’m currently learning ReactJS , Substrate, Binance Smart Chain, Polkadot and many fucking more 🏅<br/>
 * 💬 Ask me anything on my social media<br/>
 * ><br/>
 * 🌙 Quote: Just enjoy what you doing brah..
+
 ---
 
+</p>
 <h3 align="center"> 🥽 GITCOIN  🥽 </h3>
 <h4 align="center"> https://gitcoin.co/agin-dropdisco</h4>
 <h4 align="center"> https://gitcoin.co/burgerking12</h4>
+
 ---
