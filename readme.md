@@ -14,13 +14,12 @@
 
 </h5>
 
----
-<p align="center"> 
-<a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="LinkedIn" src="./linkedin.svg"></a>
-</p>
-
 <h3 align="center"> 🥽 GITCOIN  🥽 </h3>
 <h4 align="center"> https://gitcoin.co/agin-dropdisco</h4>
 <h4 align="center"> https://gitcoin.co/burgerking12</h4>
+
+<p align="center"> 
+<a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="LinkedIn" src="./linkedin.svg"></a>
+</p>
 
 
