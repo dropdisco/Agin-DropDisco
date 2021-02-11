@@ -15,11 +15,6 @@
 </h5>
 
 ---
-
-<p align="center">
-<img src="./me.jpg" alt="Agin DropDisco" height="440" width="320">
-</p>
-
 <p align="center"> 
 <a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="LinkedIn" src="./linkedin.svg"></a>
 </p>
