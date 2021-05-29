@@ -6,7 +6,7 @@
   
 🔭 Agin DropDisco ||  Full-Stack Developer from Indonesia.<br />
  
-🌱 I’m currently learning ReactJS , Substrate, Binance Smart Chain, Polkadot and many fucking more 🏅<br/>
+🌱 I’m currently Substrate 🏅<br/>
 
 💬 Ask me anything on my social media<br/>
 
