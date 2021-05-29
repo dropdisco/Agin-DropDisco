@@ -6,7 +6,7 @@
   
 🔭 Agin DropDisco ||  Full-Stack Developer from Indonesia.<br />
  
-🌱 I’m currently Substrate 🏅<br/>
+🌱 I’m currently Rust 🏅<br/>
 
 💬 Ask me anything on my social media<br/>
 
