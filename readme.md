@@ -22,21 +22,9 @@
 <h4 align="center"> https://gitcoin.co/burgerking12</h4>
 
 <div align="center">
-<a href="https://discord.gg/xNje9Y75">
-  <img alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-  
-<a href="https://linkedin.com/in/agin-dropdisco-5555b7171">
-  <img alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
-<a href="https://www.youtube.com/c/DropDisco">
-  <img alt="youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-
-  
+ <a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="linkedin" src="./IN.svg"></a>
+ <a href="https://www.youtube.com/channel/UCsAup1h4bo1EGFwxvrFT2Zw"><img alt="youtube" src="./YT.svg"></a>
+ <a href="https://www.facebook.com/Agin.Lee.park.Jin/"><img alt="facebook" src="./FB.svg"></a>
 </div>
 
 
