@@ -22,7 +22,7 @@
 <h4 align="center"> https://gitcoin.co/burgerking12</h4>
 
 <div align="center">
- <a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="linkedin" src="./IN.svg"></a>
+ <a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="linkedin" src="./IN.svg" width="100px"></a>
  <a href="https://www.youtube.com/channel/UCsAup1h4bo1EGFwxvrFT2Zw"><img alt="youtube" src="./YT.svg"></a>
  <a href="https://www.facebook.com/Agin.Lee.park.Jin/"><img alt="facebook" src="./FB.svg"></a>
 </div>
