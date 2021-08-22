@@ -1,5 +1,7 @@
 
-   ![Agin DropDisco Github Stats](https://github-readme-stats.vercel.app/api?username=Agin-DropDisco)
+📈 Agin DropDisco Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&theme=gotham" alt="Agin-DropDisco" />
+
 
 ---
 
