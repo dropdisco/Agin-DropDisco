@@ -25,16 +25,17 @@
 <a href="https://discord.gg/xNje9Y75">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<br>
+
+  
 <a href="https://linkedin.com/in/agin-dropdisco-5555b7171">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br>
+
 
 <a href="https://www.youtube.com/c/DropDisco">
   <img align="left" alt="youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<br>
+
   
 </div>
 
