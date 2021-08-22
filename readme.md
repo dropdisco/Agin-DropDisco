@@ -1,6 +1,5 @@
-<p align="center">
-https://github-readme-stats.vercel.app/api?username=Agin-DropDisco
-</p>
+
+![Agin DropDisco Github Stats](https://github-readme-stats.vercel.app/api?username=Agin-DropDisco)
 
 ---
 
