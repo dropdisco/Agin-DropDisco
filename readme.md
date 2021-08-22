@@ -21,6 +21,7 @@
 <h4 align="center"> https://gitcoin.co/agin-dropdisco</h4>
 <h4 align="center"> https://gitcoin.co/burgerking12</h4>
 
+<div align="center">
 <a href="https://discord.gg/xNje9Y75">
   <img align="center" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -32,6 +33,6 @@
 <a href="https://www.youtube.com/c/DropDisco">
   <img align="center" alt="youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-
+</div>
 
 
