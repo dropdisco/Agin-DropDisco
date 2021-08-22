@@ -1,5 +1,5 @@
 
-📈 Agin DropDisco Github Stats
+<p align="center">📈 Agin DropDisco Github Stats</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&theme=gotham" alt="Agin-DropDisco" />
 
 
