@@ -1,4 +1,5 @@
-<h2 align="center">Thanks for cloning Mine ? 👻</h2>
+![Agin DropDisco Github Stats](https://github-readme-stats.vercel.app/api?username=Agin-DropDisco)
+
 
 ---
 
