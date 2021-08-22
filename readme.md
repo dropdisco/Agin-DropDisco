@@ -17,10 +17,6 @@
 
 </h5>
 
-<h3 align="center"> 🥽 GITCOIN  🥽 </h3>
-<h4 align="center"> https://gitcoin.co/agin-dropdisco</h4>
-<h4 align="center"> https://gitcoin.co/burgerking12</h4>
-
 <div align="center">
  <a href="https://linkedin.com/in/agin-dropdisco-5555b7171"><img alt="linkedin" src="./IN.svg" width="200px"></a>
  <a href="https://www.youtube.com/channel/UCsAup1h4bo1EGFwxvrFT2Zw"><img alt="youtube" src="./YT.svg"  width="200px"></a>
