@@ -1,6 +1,6 @@
-
+<p align="center">
 # Yo, biatch! <img src="./wave.gif" width="40px">
-
+</p>
 ## &#x1f4c8; Agin DropDisco Contribution Graph
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Agin-DropDisco&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
