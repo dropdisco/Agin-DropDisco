@@ -1,4 +1,4 @@
-<h1 align="center">Yo, Biatch! <img src="https://i.gifer.com/origin/af/af3898c603b08e23a57e91666ff0fab1_w200.webp" width="80px"></h1>
+<h1 align="center">Yo, Biatch! <img src="./yo_bitch.webp" width="80px" height="180px"></h1>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Agin-DropDisco&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
 </p>
