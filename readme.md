@@ -8,7 +8,7 @@
 
 <h4 align="center">
   
-🔭 Agin DropDisco ||  Full-Stack Developer from Indonesia.<br />
+🔭 Agin DropDisco ||  Full-Stack Developer <br />
 
 🌙 Lets Contribute to the Paradoxical World
 </h4>
