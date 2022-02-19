@@ -10,7 +10,7 @@
   
 🔭 Agin DropDisco ||  Full-Stack Developer <br />
 
-🌙 Lets Contribute to the Paradoxical World
+🌙 Learn alot about Polkadot and Harmony
 </h4>
 
 <div align="center">
