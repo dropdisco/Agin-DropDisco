@@ -10,7 +10,7 @@
   
 🔭 Agin DropDisco ||  Full-Stack Developer <br />
 
-🌙 Learn alot about Filecoin, Harmony and Near 🌙
+🌙 Learn alot about Filecoin, Harmony and Mantle 🌙
 </h4>
 
 <div align="center">
