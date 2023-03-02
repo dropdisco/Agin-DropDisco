@@ -1,5 +1,5 @@
 <h1 align="center">Yo, Biatch! <img src="./yo_bitch.webp" width="110px"></h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&theme=gotham" alt="Agin-DropDisco" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Agin-DropDisco&show_icons=true&theme=blueberry" alt="Agin-DropDisco" />
 
 ---
 
